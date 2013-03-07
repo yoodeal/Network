@@ -12,6 +12,7 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="description" content="<?=$lang['head']['description']?>" />
   <meta name="keywords" content="" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.png" />
 
   <!-- CSS -->
   <link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection" /> 
@@ -75,8 +76,8 @@
         </ul>
         <h3 class="gray">Seguici:</h3>
         <div class="social-links">
-          <a href="http://www.facebook.com/YooDeal" class="facebook"></a>
-          <a href="http://twitter.com/yoodeal" class="twitter"></a>
+          <a href="<?=$lang['body']['url']['facebook']?>" class="facebook"></a>
+          <a href="<?=$lang['body']['url']['twitter']?>" class="twitter"></a>
         </div>
       </div>
       <div class="col2 contact-form">

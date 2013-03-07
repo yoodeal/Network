@@ -2,33 +2,38 @@
 return array(
 	'head'	=> array(
 		'title'			=> 'Yoodeal Corporate',
-		'description'	=> ''
+		'description'	=> 'Yoodeal is the premier online shopping platform for personalized deals and offers'
 	),
 
 	'body' => array(
-		'main'				=> '',
-		'main.description'	=> '',
-		'img.compare'		=> '',
-		'img.analyzes'		=> 'Analizza e categorizza',
-		'img.understand'	=> 'Capisce cosa ti piace',
-		'semantic'			=> 'L’innovazione è nel nostro algoritmo: setaccia le offerte promozionali presenti sul web e ne comprende il significato. Vuoi sapere come? Grazie all’analisi semantica del linguaggio naturale.',
+		'main'				=> 'The best deals tailor made',
+		'main.description'	=> '<strong>Yoodeal</strong> is the premier online shopping platform for personalized deals and offers from e-commerce website, group buying site like Groupon and many more.',
+		'img.compare'		=> 'Compares the best offers',
+		'img.analyzes'		=> 'Analyzes and categorizes',
+		'img.understand'	=> 'Understands what you like',
+		'semantic'			=> 'Our innovation lies in our search and ranking algorithm: our ability to gather and personalize online promotions based on natural language analysis, and further categorization and ranking for each particular shopper.',
 		'cat'				=> array(
-			'dining'		=> 'Cibo',
-			'wellness'		=> 'Benessere',
+			'dining'		=> 'Food',
+			'wellness'		=> 'Beauty',
 			'services'		=> 'Servizi',
-			'technology'	=> 'Tecnologia',
+			'technology'	=> 'Tech',
 			'shopping'		=> 'Shopping',
-			'travel'		=> 'Viaggi e vacanze',
-			'activities'	=> 'Tempo libero'
+			'travel'		=> 'Travel',
+			'activities'	=> 'Leisure'
 		),
-		'discover'			=> 'Scopri come funziona',
-		'languages'			=> 'Yoodeal è disponibile in:',
+		'discover'			=> 'How it works',
+		'languages'			=> 'Yoodeal is available in:',
 		'contact.form'		=> array(
-			'title'			=> 'Contattaci',
-			'name'			=> 'Come ti chiami?',
-			'email'			=> 'Qual\'è il tuo indirizzo email?',
-			'text'			=> 'Scrivi il tuo messaggio...',
-			'privacy'		=> 'Ho letto l\'informativa per la privacy'
+			'title'			=> 'Contact us',
+			'name'			=> 'Your name?',
+			'email'			=> 'What is your email address?',
+			'text'			=> 'Write your message...',
+			'privacy'		=> 'I accept the privacy policy',
+			'send'			=> 'Send'
+		),
+		'url'				=> array(
+			'facebook'		=> 'http://www.facebook.com/YooDeal',
+			'twitter'		=> 'https://twitter.com/yoodeal'
 		)
 	)
 );

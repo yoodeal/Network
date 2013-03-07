@@ -28,7 +28,12 @@ return array(
 			'name'			=> 'Como se chama?',
 			'email'			=> 'Qual seu endereço de e-mail?',
 			'text'			=> 'Escreva sua mensagem...',
-			'privacy'		=> 'Ho letto l\'informativa per la privacy'
+			'privacy'		=> 'Eu li a informação de privacidade',
+			'send'			=> 'Enviar'
+		),
+		'url'				=> array(
+			'facebook'		=> 'https://www.facebook.com/YooDealBrasil',
+			'twitter'		=> 'https://twitter.com/YooDealBrasil'
 		)
 	)
 );
